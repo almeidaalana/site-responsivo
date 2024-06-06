@@ -1,3 +1,8 @@
+*{ /*seletor univeral para resetar as bordas da páginas*/
+    padding:0px;
+    margin:0px;
+
+}
 :root{
     --cor-de-fundo:#ffc0cb;
 }
