@@ -3,6 +3,11 @@
     margin:0px;
 
 }
-:root{
-    --cor-de-fundo:#ffc0cb;
+:root{/*seletor raiz para variáveis*/
+    --cor-de-fundo:pink;
+    --cor-da-letra:purple;
+}
+body{/*seletor body*/
+    background-color:var(--cor-de-fundo);
+
 }
